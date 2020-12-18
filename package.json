@@ -1,6 +1,6 @@
 {
   "name": "requirenv",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "check that all the required environmental variables are there",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hacknlove/checkenv.git"
+    "url": "git+https://github.com/hacknlove/requirenv.git"
   },
   "author": "antonio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hacknlove/checkenv/issues"
+    "url": "https://github.com/hacknlove/requirenv/issues"
   },
-  "homepage": "https://github.com/hacknlove/checkenv#readme",
+  "homepage": "https://github.com/hacknlove/requirenv#readme",
   "dependencies": {
     "dotenv": "^8.2.0"
   }
