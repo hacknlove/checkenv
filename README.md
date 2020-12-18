@@ -10,11 +10,11 @@
 ## `env.required.js` example
 
 ```
-module.exports = {
+module.exports = [
   "foo",
   "bar",
   "baz",
-}
+]
 ```
 
 ## `package.json` example
