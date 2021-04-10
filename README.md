@@ -3,7 +3,7 @@
 ## how to use
 
 1. install it `npm i requirenv`
-2. add a file `env.required.js` to the root of your project
+2. add a file `.env.required.js` to the root of your project
 3. prepend `requirenv && ` to the scripts that do you want to fail early if any required environmental variable is missing
 4. that's it
 
