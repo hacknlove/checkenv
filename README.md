@@ -7,7 +7,7 @@
 3. prepend `requirenv && ` to the scripts that do you want to fail early if any required environmental variable is missing
 4. that's it
 
-## `env.required.js` example
+## `.env.required.js` example
 
 ```
 module.exports = [
